@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Scratch.
 - 📫 How to reach me: monalizemoreno@gmail.com
 
-  ![](https://tenor.com/pt-PT/view/work-out-workout-leg-gif-15293982)
+![](https://media.tenor.com/DaSh5T93TgUAAAAC/cat-typing.gif)
   
 <!---
 mlize15/mlize15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
