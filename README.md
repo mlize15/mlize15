@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Monalize, I'm a Computer Science teacher in Londrina, Paraná State, Brazil.
+-  🥇I'm studying at [Alura](https://www.alura.com.br)
 - 👀 I’m interested in Java, Javascript and Scratch.
 - 🌱 I’m currently learning Scratch and Javascript.
 - 💞️ I’m looking to collaborate on Scratch.
 - 📫 How to reach me: monalizemoreno@gmail.com
+
+  ![](https://media.tenor.com/p8kH_Gq_0fcAAAAC/good-morning.gif)
   
 <!---
 mlize15/mlize15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
